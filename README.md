@@ -59,6 +59,4 @@ Transaction added to the blockchain.
 
 This command creates and adds a new transaction to the blockchain.
 
-Dependencies
-Python 3.x
-Crypto library (install using pip install pycryptodome)
+
